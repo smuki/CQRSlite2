@@ -1,11 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 using CQRSlite.Domain;
-#if NET452
-using System.Runtime.Caching;
-#else
 using Microsoft.Extensions.Caching.Memory;
-#endif
 
 namespace CQRSlite.Caching
 {
