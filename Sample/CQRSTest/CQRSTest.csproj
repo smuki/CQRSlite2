@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Framework\CQRSlite.Tests.Extensions\CQRSlite.Tests.Extensions.csproj" />
+    <ProjectReference Include="..\..\CQRSlite.Tests.Extensions\CQRSlite.Tests.Extensions.csproj" />
     <ProjectReference Include="..\CQRSCode\CQRSCode.csproj" />
   </ItemGroup>
 

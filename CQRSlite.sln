@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Framework", "Framework", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample", "Sample", "{DC63AD03-D195-4E43-8120-0BD27AC86D46}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRSlite.Tests.Extensions", "Framework\CQRSlite.Tests.Extensions\CQRSlite.Tests.Extensions.csproj", "{0A3F1993-C603-4CD9-BCB3-5791255B54AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRSlite.Tests.Extensions", "CQRSlite.Tests.Extensions\CQRSlite.Tests.Extensions.csproj", "{0A3F1993-C603-4CD9-BCB3-5791255B54AA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRSCode", "Sample\CQRSCode\CQRSCode.csproj", "{94A8AD91-1300-471D-AAC0-F6F310A54927}"
 EndProject
